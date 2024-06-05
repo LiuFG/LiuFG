@@ -1,6 +1,6 @@
 ### Hi, I'm Fenggang Liu 👋
 
-<!-- ![LiuFG's github stats](https://github-readme-stats.vercel.app/api?username=liufg&show_icons=true&hide=prs&&count_private=false&theme=default_repocard) -->
+<!-- ![Fenggang's github stats](https://github-readme-stats.vercel.app/api?username=liufg&show_icons=true&hide=prs&&count_private=false&theme=default_repocard) -->
 ![liufg's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liufg&&show_icons=true&theme=default_repocard)
 [![Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liufg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
